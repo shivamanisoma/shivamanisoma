@@ -31,7 +31,7 @@
 | **Visualization & BI** | **Power BI, Tableau**, Matplotlib, Seaborn |
 | **Tools** | Jupyter Notebook, Git, GitHub, VS Code |
 
-**My Core Strength:** SQL + Python for Analysis, Power BI + Tableau for Dashboards
+**My Core Strength:** SQL + Python for Analysis, Power BI + Tableau for Dashboards, Excel
 
 ---
 

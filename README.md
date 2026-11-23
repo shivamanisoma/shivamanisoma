@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-- 🎯 **Data Analyst** based in Hyderabad, India
+- 🎯 **Data Analyst** 
 - 📊 Expert in **Data Cleaning, EDA, Dashboards & Business Insights**
 - 📈 I don't just make charts - I find the story behind the numbers
 - 💡 Strong in **Advanced SQL, Python, Power BI, Tableau & Storytelling with Data**
